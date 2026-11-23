@@ -1,2 +1,2 @@
 # Ten2Five
-Hanya Untuk-Mu
+a small project inspired by a favorite song "Hanya Untuk-Mu" ♡
