@@ -14,9 +14,9 @@ LYRICS = [
     (67,  "Semua yang kumau"),
     (69,  "Hanyalah dirimu satu"),
     (78,  "Kaulah jawaban semua doa"),
-    (91,  "Semua yang kurasa"),
-    (94,  "Rindu dalam asa, di dekap cinta"),
-    (103,  "Hatiku untukmu"),
+    (89,  "Semua yang kurasa"),
+    (92,  "Rindu dalam asa, di dekap cinta"),
+    (101,  "Hatiku untukmu"),
 ]
 
 BOX_W, BOX_H = 300, 250
